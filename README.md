@@ -429,7 +429,7 @@ plt.show()
  -  Error Handling in Data Processing, I faced challenges in retrieving data due to recurring errors, often caused by non-numeric values. To address this, I learned the importance of using the parameter **errors='coerce'** when converting data types. This parameter prevents runtime errors by coercing invalid entries into a manageable format, typically converting them to NaN, thereby allowing the data processing to proceed smoothly.
 
  -  One important lesson I learned was that real-world data is often messy. Dealing with missing values and converting data types showed me that data isn’t always clean or ready for analysis. I had to spend time preparing it before doing anything meaningful, which gave me valuable insight into what actual data analysis involves. This experience taught me that data cleaning is just as important as the analysis itself.
--   Being a programmer is challenging, it takes a lot of time to learn, and there's plenty of trial, error, and frustration just to understand what's wrong with the code. Even as a student learning the basics, I find it tough to tackle simple problems. However, working on this project has given me a valuable opportunity to deepen my programming knowledge and skills. 
+-   **Reflection**: Being a programmer is challenging, it takes a lot of time to learn, and there's plenty of trial, error, and frustration just to understand what's wrong with the code. Even as a student learning the basics, I find it tough to tackle simple problems. However, working on this project has given me a valuable opportunity to deepen my programming knowledge and skills. 
 
 ## References
 - ECE 2112 Modules and Cheat Sheet
